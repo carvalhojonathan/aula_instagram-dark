@@ -2,7 +2,7 @@
 
 ## Descrição:
 
-Nesse projeto você tive o desafio de reconstruir a página inicial de login do Instagram, no qual foi abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibilizou todo o material necessário em seu GitHub para que eu pudesse realizar o meu projeto.
+Nesse projeto tive o desafio de reconstruir a página inicial de login do Instagram, no qual foi abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibilizou todo o material necessário em seu GitHub para que eu pudesse realizar o meu projeto.
 
 
 
